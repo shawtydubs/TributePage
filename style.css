@@ -1,0 +1,74 @@
+#background {
+  background-color: #e6e6e6;
+  border: 10px solid #e6e6e6;
+  border-radius: 10px;
+  width: 90%;
+  margin: 40px auto 40px auto;
+}
+
+#picture {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+#timeline {
+  padding: 0% 10% 0% 10%;
+}
+
+#quote {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  font-size: 14pt;
+  padding: 0% 13% 0% 13%;
+}
+
+#external {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14pt;
+  font-weight: bold;
+  padding: 0% 10% 0% 10%;
+}
+
+.caption {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 9pt;
+}
+
+.year {
+  font-weight: bold;
+}
+
+.quote-sig {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  font-style: italic;
+  color: #808080;
+}
+
+div {
+  margin: 20px 0px 20px 0px;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 40pt;
+}
+
+@media (max-width: 40.063em) {
+  h1 {
+    font-size: 30pt;
+  }
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  font-style: italic;
+}
+
+img {
+  width: 100%;
+  margin: 0px 0px 5px 0px;
+}
